@@ -44,9 +44,8 @@ Data Cleaning → KPI Development → Visualization → Business Insight Generat
 
 ---
 
-## 📷 Dashboard Preview
-
-(See Images/dashboard_preview.png)
+### Dashboard Preview
+![e-commerce-sales-analytics-dashboard](Images/e-commerce-sales-analytics-dashboard.png)
 
 ---
 
