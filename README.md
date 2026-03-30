@@ -70,12 +70,10 @@ Aspiring Data Analyst skilled in Excel, SQL (Basic), Python (Basic), and Power B
 
 ## 📬 Contact & Connect
 
-I am always open to discussing data projects, collaborations, or potential opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damankomu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daman-github-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+I am always open to discussing data projects or potential opportunities!
 
 * **LinkedIn:** [Daman Komu](https://www.linkedin.com/in/damankomu)
-* **GitHub:** [daman-github-username](https://github.com/daman-github-username
-Email: Damankomu21@gmail.com
+* **GitHub:** [Damankomu21](https://github.com/damankomu21))
+* **Email:** [Damankomu21@gmail.com](mailto:Damankomu21@gmail.com)
