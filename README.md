@@ -60,9 +60,17 @@ This dashboard helps stakeholders:
 
 ---
 
-## 👤 Author
+## 👤 About the Author
 
-Aspiring Data Analyst skilled in Excel, SQL (Basic), Python (Basic), and Power BI.
+**Daman Komu** *Data Analyst | Business Intelligence Specialist*
+
+I am a results-driven Data Analyst passionate about transforming raw data into actionable business insights. My expertise lies in building interactive dashboards, identifying market trends, and optimizing data workflows to drive informed decision-making.
+
+### 🛠️ Technical Stack
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
