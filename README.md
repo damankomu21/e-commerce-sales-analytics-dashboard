@@ -63,3 +63,12 @@ This dashboard helps stakeholders:
 ## 👤 Author
 
 Aspiring Data Analyst skilled in Excel, SQL (Basic), Python (Basic), and Power BI.
+
+---
+
+📬 Contact & Connect
+I am always open to discussing data projects or potential opportunities!
+
+LinkedIn: Daman Komu
+GitHub: Damankomu21)
+Email: Damankomu21@gmail.com
